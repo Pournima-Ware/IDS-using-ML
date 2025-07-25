@@ -1,4 +1,4 @@
-# 🛡 Python-Based Intrusion Detection System (IDS)
+#  Python-Based Intrusion Detection System (IDS)
 
 A lightweight IDS built using Python that detects network intrusions using both:
 -  Signature-based detection (via Scapy)
